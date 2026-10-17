@@ -1,0 +1,13 @@
+# Streamlit secrets (contains database password)
+.streamlit/secrets.toml
+
+# Python cache & virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.env
+.DS_Store
